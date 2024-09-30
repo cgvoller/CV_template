@@ -1,5 +1,5 @@
 # CV Template
-> A template CV made in overleaf (LaTeX). This is quite a compact CV although I received positive feedback from jobs and academics with regards to the formatting.
+> A template CV made in overleaf (LaTeX). This is quite a compact CV.
 # WIP
 >  I have shared this template with friends although as they don't know LaTeX, I end up writing it for them. As such, I will be updating this so that it is more user-friendly to make changes to the colours, sections and contents. I've seen someone use a yaml file so maybe this is the way forward.
 
